@@ -18,6 +18,6 @@ Science. I’m itching to learn and excited to combine the fields of CS and prod
 ## PROGRAMMING BIOGRAPHY
 My only programming experience is when I took CS 161 over the summer. It was a great class and I was proud of what I had 
 accomplished over the short 10 week period. MY favorite project from that class was my final project. I created a working
-Mastermind (code breaking) type game. 
+Mastermind (code breaking) type game. I'm taking this class in hopes to get ahead (as I am in the 1.25 years track). 
 
 
