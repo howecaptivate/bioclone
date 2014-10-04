@@ -15,6 +15,8 @@ wanted to pursue a career in photography. I jumped head first into photography, 
 projects on the side. It kept me busy, but work became more and more inconsistent. Thus, I decided to pursue a career in Computer
 Science. I’m itching to learn and excited to combine the fields of CS and product design.
 
+My hobbies include photography, biking, hiking, fishing, motorcycling, and weight lifting.
+
 ## PROGRAMMING BACKGROUND
 
 
