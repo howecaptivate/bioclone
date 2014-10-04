@@ -20,7 +20,7 @@ My hobbies include photography, biking, hiking, fishing, motorcycling, and weigh
 ## PROGRAMMING BIOGRAPHY
 My only programming experience is when I took CS 161 over the summer. It was a great class and I was proud of what I had 
 accomplished over the short 10 week period. MY favourite project from that class was my final project. I created a working
-Mastermind (code breaking) type game. I'm taking this class in hopes to get ahead (as I am in the 1.25 years track). Besides that course, I have no prior CS experience.
+Mastermind (code breaking) type game. I'm taking this class in hopes to get ahead (as I am in the 1.25 years track). Besides that course, I have no prior CS experience. Looking forward to this term!
 
 
 
